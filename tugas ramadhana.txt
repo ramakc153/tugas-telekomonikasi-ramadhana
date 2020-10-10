@@ -1,0 +1,18 @@
+1. Throughput:Jumlah byte/durasi (s)
+		40.293.571/319,210=126.229,03
+	1byte=8 bit
+	126.229,03x8=1009 kbits/s
+
+2. Packet Loss: =(Paket yang dikirim-paket yang diterima)/paket yang dikirim x 100%
+             =(68.180-65.022)/68.180 x 100%
+	     =4,631%
+
+3. Delay/latency:
+   Total delay=319,21 s
+   rata rata dekay= 0,004 s
+
+4. Jitter:
+   Total jitter= 319,1743
+   rata rata jitter=0,004681
+
+
